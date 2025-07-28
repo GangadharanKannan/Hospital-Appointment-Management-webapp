@@ -7,7 +7,7 @@ A full-stack web app for booking and managing hospital appointments, built with 
 ## 🚀 Live Demo Links
 
 - 👤 **Patient Portal:** https://hello-doc-mauve.vercel.app/
-- 🩺 **Doctor & Admin Portal:** https://hellodoc-admin-17vuvcxxh-gangadharankannans-projects.vercel.app/
+- 🩺 **Doctor & Admin Portal:** https://hellodoc-admin.vercel.app/
 
 ---
 
